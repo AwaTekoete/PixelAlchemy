@@ -114,6 +114,22 @@ Beobachtete Effekte:
 
 ---
 
+## Experiment 02 – Contour Alchemy
+
+![Experiment 02 - Contour Alchemy](docs/images/contour_alchemy_v01.jpg)
+
+*Bin Stretch Art kombiniert mit Konturextraktion.*
+
+### Beobachtungen
+
+* Gesicht bleibt gut erkennbar
+* Haare und Kleidung zeigen feine Strukturen
+* Druckartige Wirkung
+* Hoher Detailgrad
+* Himmel tritt weitgehend in den Hintergrund
+
+---
+
 ## Aktueller Status
 
 Version: 0.1
