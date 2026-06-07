@@ -1,14 +1,23 @@
-# MyPictureArt
+# PixelAlchemy
 
-Ein experimentelles Python-Projekt zur künstlerischen Transformation von Fotografien.
+**Transforming Pixels into Unexpected Art through Mathematical Image Experiments**
+
+Ein experimentelles Python-Projekt zur Erforschung künstlerischer Bildtransformationen.
 
 ## Projektidee
 
 Ausgangspunkt ist die Frage:
 
-> Können einfache mathematische Transformationen interessante künstlerische Effekte erzeugen?
+> Können einfache mathematische Transformationen interessante und unerwartete künstlerische Effekte erzeugen?
 
-Anstatt komplexe KI-Modelle zu verwenden, werden zunächst klassische Bildverarbeitungsmethoden untersucht.
+Anstatt komplexe KI-Modelle oder neuronale Netze einzusetzen, untersucht PixelAlchemy zunächst klassische Methoden der Bildverarbeitung und experimentiert mit deren kreativem Potenzial.
+
+Im Mittelpunkt steht die Verbindung von:
+
+* Bildverarbeitung
+* kreativer Programmierung
+* experimenteller Kunst
+* reproduzierbarer Forschung
 
 Der Fokus liegt auf:
 
@@ -16,7 +25,18 @@ Der Fokus liegt auf:
 * Strukturverstärkung
 * Kontrastmanipulation
 * künstlerischen Effekten
+* visueller Exploration
 * reproduzierbaren Experimenten
+
+---
+
+## Philosophie
+
+PixelAlchemy versteht Bildverarbeitung nicht nur als technisches Werkzeug, sondern auch als kreativen Forschungsprozess.
+
+Jedes Experiment beginnt mit einer einfachen mathematischen Idee. Durch systematische Variation von Parametern wird untersucht, welche visuellen Strukturen, Muster und ästhetischen Effekte daraus entstehen.
+
+Das Projekt dokumentiert sowohl erfolgreiche als auch unerwartete Ergebnisse und versteht sich als offenes Labor für algorithmische Bildkunst.
 
 ---
 
@@ -24,7 +44,7 @@ Der Fokus liegt auf:
 
 ```text
 MyPictureArt/
-
+│
 ├── data/
 │   ├── raw/
 │   ├── intermediate/
