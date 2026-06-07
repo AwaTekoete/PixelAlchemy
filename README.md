@@ -71,6 +71,10 @@ MyPictureArt/
 
 ## Experiment 01 – Bin Stretch Art
 
+![Experiment 01 - Bin Stretch Art](docs/images/experiment_01_collage.jpg)
+
+*Von links oben nach rechts unten: 2, 3, 4 und 5 Bins.*
+
 ### Grundidee
 
 Jeder RGB-Kanal wird in mehrere Intensitätsbereiche (Bins) unterteilt.
